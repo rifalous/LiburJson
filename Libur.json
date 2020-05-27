@@ -1,0 +1,480 @@
+{
+    "data":[
+       {
+          "tanggal":"2019-01-01",
+          "deskripsi":"Hari Tahun Baru",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-02-05",
+          "deskripsi":"Tahun Baru Imlek",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-03-07",
+          "deskripsi":"Hari Raya Nyepi (Tahun Baru Saka)",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-04-03",
+          "deskripsi":"Isra Mi'raj Nabi Muhammad",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-04-17",
+          "deskripsi":"Election Day",
+          "dibuat":"20190415T232630Z",
+          "dimodifikasi":"20190415T232630Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-04-19",
+          "deskripsi":"Wafat Isa Almasih",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-04-21",
+          "deskripsi":"Hari Paskah",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-05-01",
+          "deskripsi":"Hari Buruh Internasional/Pekerja",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-05-19",
+          "deskripsi":"Hari Raya Waisak",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-05-30",
+          "deskripsi":"Kenaikan Yesus Kristus",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-06-01",
+          "deskripsi":"Hari Lahir Pancasila",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-06-03",
+          "deskripsi":"Cuti Bersama",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-06-04",
+          "deskripsi":"Cuti Bersama",
+          "dibuat":"20200317T002609Z",
+          "dimodifikasi":"20200317T002609Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-06-05",
+          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "dibuat":"20200317T002609Z",
+          "dimodifikasi":"20200317T002609Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-06-06",
+          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-06-07",
+          "deskripsi":"Cuti Bersama",
+          "dibuat":"20200317T002609Z",
+          "dimodifikasi":"20200317T002609Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-08-11",
+          "deskripsi":"Idul Adha (Lebaran Haji)",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-08-17",
+          "deskripsi":"Hari Proklamasi Kemerdekaan R.I.",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-09-01",
+          "deskripsi":"Satu Muharam/Tahun Baru Hijriyah",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-10-27",
+          "deskripsi":"Diwali/Deepavali",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-11-09",
+          "deskripsi":"Maulid Nabi Muhammad",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-12-24",
+          "deskripsi":"Cuti Bersama (Malam Natal)",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-12-25",
+          "deskripsi":"Hari Natal",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2019-12-31",
+          "deskripsi":"Malam Tahun Baru",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-01-01",
+          "deskripsi":"Hari Tahun Baru",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-01-25",
+          "deskripsi":"Tahun Baru Imlek",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-03-22",
+          "deskripsi":"Isra Mi'raj Nabi Muhammad",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-03-25",
+          "deskripsi":"Hari Raya Nyepi (Tahun Baru Saka)",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-04-10",
+          "deskripsi":"Wafat Isa Almasih",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-04-12",
+          "deskripsi":"Hari Paskah",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-05-01",
+          "deskripsi":"Hari Buruh Internasional/Pekerja",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-05-07",
+          "deskripsi":"Hari Raya Waisak",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-05-21",
+          "deskripsi":"Kenaikan Yesus Kristus",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-05-24",
+          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "dibuat":"20200317T002609Z",
+          "dimodifikasi":"20200317T002609Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-05-25",
+          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-06-01",
+          "deskripsi":"Hari Lahir Pancasila",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-07-31",
+          "deskripsi":"Idul Adha (Lebaran Haji)",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-08-17",
+          "deskripsi":"Hari Proklamasi Kemerdekaan R.I.",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-08-20",
+          "deskripsi":"Satu Muharam/Tahun Baru Hijriyah",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-08-21",
+          "deskripsi":"Muharram / Islamic New Year Holiday",
+          "dibuat":"20200317T002609Z",
+          "dimodifikasi":"20200317T002609Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-10-29",
+          "deskripsi":"Maulid Nabi Muhammad",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-10-30",
+          "deskripsi":"The Prophet Muhammad's Birthday Holiday",
+          "dibuat":"20200317T002609Z",
+          "dimodifikasi":"20200317T002609Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-11-14",
+          "deskripsi":"Diwali/Deepavali",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-12-24",
+          "deskripsi":"Cuti Bersama (Malam Natal)",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-12-25",
+          "deskripsi":"Hari Natal",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-12-28",
+          "deskripsi":"Cuti Bersama",
+          "dibuat":"20200507T225656Z",
+          "dimodifikasi":"20200507T225656Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-12-29",
+          "deskripsi":"Cuti Bersama",
+          "dibuat":"20200507T225656Z",
+          "dimodifikasi":"20200507T225656Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-12-30",
+          "deskripsi":"Cuti Bersama",
+          "dibuat":"20200507T225656Z",
+          "dimodifikasi":"20200507T225656Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2020-12-31",
+          "deskripsi":"Malam Tahun Baru",
+          "dibuat":"20190221T122231Z",
+          "dimodifikasi":"20190221T122231Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-01-01",
+          "deskripsi":"Hari Tahun Baru",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-02-12",
+          "deskripsi":"Tahun Baru Imlek",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-03-11",
+          "deskripsi":"Isra Mi'raj Nabi Muhammad",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-03-14",
+          "deskripsi":"Hari Raya Nyepi (Tahun Baru Saka)",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-04-02",
+          "deskripsi":"Wafat Isa Almasih",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-04-04",
+          "deskripsi":"Hari Paskah",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-05-01",
+          "deskripsi":"Hari Buruh Internasional/Pekerja",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-05-13",
+          "deskripsi":"Kenaikan Yesus Kristus",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-05-14",
+          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-05-26",
+          "deskripsi":"Hari Raya Waisak",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-06-01",
+          "deskripsi":"Hari Lahir Pancasila",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-07-20",
+          "deskripsi":"Idul Adha (Lebaran Haji)",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-08-10",
+          "deskripsi":"Satu Muharam/Tahun Baru Hijriyah",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-08-17",
+          "deskripsi":"Hari Proklamasi Kemerdekaan R.I.",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-10-19",
+          "deskripsi":"Maulid Nabi Muhammad",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-11-04",
+          "deskripsi":"Diwali/Deepavali",
+          "dibuat":"20190916T225148Z",
+          "dimodifikasi":"20190916T225148Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-12-24",
+          "deskripsi":"Malam Natal",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-12-25",
+          "deskripsi":"Hari Natal",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       },
+       {
+          "tanggal":"2021-12-31",
+          "deskripsi":"Malam Tahun Baru",
+          "dibuat":"20190911T231553Z",
+          "dimodifikasi":"20190911T231553Z",
+          "status":"CONFIRMED"
+       }
+    ]
+ }
