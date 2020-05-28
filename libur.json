@@ -51,7 +51,7 @@
        },
        {
           "tanggal":"2019-05-01",
-          "deskripsi":"Hari Buruh Internasional/Pekerja",
+          "deskripsi":"Hari Buruh Internasional",
           "dibuat":"20190221T122231Z",
           "dimodifikasi":"20190221T122231Z",
           "status":"CONFIRMED"
@@ -93,14 +93,14 @@
        },
        {
           "tanggal":"2019-06-05",
-          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "deskripsi":"Idul Fitri (Lebaran)",
           "dibuat":"20200317T002609Z",
           "dimodifikasi":"20200317T002609Z",
           "status":"CONFIRMED"
        },
        {
           "tanggal":"2019-06-06",
-          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "deskripsi":"Idul Fitri (Lebaran)",
           "dibuat":"20190221T122231Z",
           "dimodifikasi":"20190221T122231Z",
           "status":"CONFIRMED"
@@ -212,7 +212,7 @@
        },
        {
           "tanggal":"2020-05-01",
-          "deskripsi":"Hari Buruh Internasional/Pekerja",
+          "deskripsi":"Hari Buruh Internasional",
           "dibuat":"20190221T122231Z",
           "dimodifikasi":"20190221T122231Z",
           "status":"CONFIRMED"
@@ -233,14 +233,14 @@
        },
        {
           "tanggal":"2020-05-24",
-          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "deskripsi":"Idul Fitri (Lebaran)",
           "dibuat":"20200317T002609Z",
           "dimodifikasi":"20200317T002609Z",
           "status":"CONFIRMED"
        },
        {
           "tanggal":"2020-05-25",
-          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "deskripsi":"Idul Fitri (Lebaran)",
           "dibuat":"20190221T122231Z",
           "dimodifikasi":"20190221T122231Z",
           "status":"CONFIRMED"
@@ -387,7 +387,7 @@
        },
        {
           "tanggal":"2021-05-01",
-          "deskripsi":"Hari Buruh Internasional/Pekerja",
+          "deskripsi":"Hari Buruh Internasional",
           "dibuat":"20190911T231553Z",
           "dimodifikasi":"20190911T231553Z",
           "status":"CONFIRMED"
@@ -401,7 +401,7 @@
        },
        {
           "tanggal":"2021-05-14",
-          "deskripsi":"Idul Fitri (Lebaran Mudik)",
+          "deskripsi":"Idul Fitri (Lebaran)",
           "dibuat":"20190911T231553Z",
           "dimodifikasi":"20190911T231553Z",
           "status":"CONFIRMED"
